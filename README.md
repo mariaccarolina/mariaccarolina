@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando em uma escola como professora de Educação Infantil;
 - 🌱 Atualmente estou aprendendo HTML, CSS e JavaScript
-- 👯 Futura Frontend 
+- 👯 Frontend 
 - 📫 Como chegar até mim através do email: demycar24@gmail.com ou Zap (81)98406-2510
 - 😄 Pronomes: ela/dela
 - ⚡ Curiosidade: Sou apaixonada pela tecnologia;
