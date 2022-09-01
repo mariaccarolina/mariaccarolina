@@ -2,9 +2,9 @@
 ### Olá eu sou a Carolina 👋
 
 - 🌱 Atualmente estou aprendendo HTML, CSS e JavaScript
-- 📫 Como chegar até mim através do email: demycar24@gmail.com ou Zap (81)98406-2510
-- 😄 Pronomes: ela/dela
-- ⚡ Curiosidade: Sou apaixonada pela tecnologia;
+- ⚡Curiosidade: Sou apaixonada pela tecnologia;
+-    Estudante do Vai na Web; 
+-    Cursando 3° semestre de Análise e Desenvolvimento de Sistemas
 ->
 
 <div align="center">
