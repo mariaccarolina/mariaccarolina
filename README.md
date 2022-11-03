@@ -2,8 +2,7 @@
 ### Olá eu sou a Carolina 👋
 
 - 🌱 Atualmente estou aprendendo HTML, CSS e JavaScript
-- ⚡Curiosidade: Sou apaixonada pela tecnologia;
--    Estudante do Vai na Web; 
+- ⚡Apaixonada pela tecnologia; 
 -    Cursando 3° semestre de Análise e Desenvolvimento de Sistemas
 ->
 
