@@ -3,7 +3,6 @@
 
 - 🌱 Frontend developer;
 - ⚡Apaixonada pela tecnologia; 
--  Estudando PHP;
 - Cursando 3° semestre de Análise e Desenvolvimento de Sistemas
 ->
 
