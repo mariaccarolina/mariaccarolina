@@ -2,8 +2,9 @@
 ### Olá eu sou a Carolina 👋
 
 - 🌱 Frontend developer;
-- ⚡Apaixonada pela tecnologia; 
-- Cursando 3° semestre de Análise e Desenvolvimento de Sistemas
+- ⚡ Apaixonada por educação e tecnologia; 
+-    Formação em Pedagogia;
+-    Cursando 4° semestre de Análise e Desenvolvimento de Sistemas;
 ->
 
 <div align="center">
