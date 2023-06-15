@@ -1,10 +1,11 @@
 
-### Olá eu sou a Carolina 👋
+### Olá eu sou a Maria Carolina 👋
 
-- 🌱 Frontend developer;
-- ⚡ Apaixonada por educação e tecnologia; 
--    Formação em Pedagogia;
--    Cursando 4° semestre de Análise e Desenvolvimento de Sistemas;
+- 🌱   Frontend Developer;
+- ⚡    Apaixonada por educação e tecnologia; 
+- 👩🏼‍🏫   Formação em Pedagogia;
+- 👩🏼‍💻   Instrutora Técnica em desenvolvimento Frontend no VNW;
+- 🚀   Cursando 4° semestre de Análise e Desenvolvimento de Sistemas;
 ->
 
 <div align="center">
