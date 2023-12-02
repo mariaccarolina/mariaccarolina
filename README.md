@@ -6,7 +6,7 @@
 - 👩🏼‍🏫   Formação em Pedagogia;
 - 👩🏼‍💻   Instrutora Técnica em desenvolvimento Frontend no VNW;
 - 🚀   Cursando 4° semestre de Análise e Desenvolvimento de Sistemas;
-- ✨   Estou estudando atualmente Next.js>
+- ✨   Estou estudando atualmente PHP>
 
 <div align="center">
   <a href="https://github.com/mariaccarolina">
