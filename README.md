@@ -1,6 +1,9 @@
 
 ### Olá eu sou a Maria Carolina 👋
 
+  ﾟ･✿ヾ╲(｡◕‿◕｡)╱✿･ﾟ
+          
+
 - 🌱   Frontend Developer;
 - ⚡    Apaixonada por educação e tecnologia; 
 - 👩🏼‍🏫   Formação em Pedagogia;
@@ -12,7 +15,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariaccarolina&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaccarolina&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
+          
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
