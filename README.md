@@ -1,9 +1,6 @@
 
 ### Olá eu sou a Maria Carolina 👋
 
-  ﾟ･✿ヾ╲(｡◕‿◕｡)╱✿･ﾟ
-          
-
 - 🌱   Frontend Developer;
 - ⚡    Apaixonada por educação e tecnologia; 
 - 👩🏼‍🏫   Formação em Pedagogia;
