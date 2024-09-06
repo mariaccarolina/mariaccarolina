@@ -1,17 +1,14 @@
 
-### Olá eu sou a Maria Carolina 👋
-
-- 🌱   Frontend Developer;
-- ⚡    Apaixonada por educação e tecnologia; 
-- 👩🏼‍🏫   Formação em Pedagogia;
-- 👩🏼‍💻   Instrutora Técnica em desenvolvimento Frontend no VNW;
-- 🚀   Cursando 4° semestre de Análise e Desenvolvimento de Sistemas;
-
-<div align="center">
-  <a href="https://github.com/mariaccarolina">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariaccarolina&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaccarolina&layout=compact&langs_count=7&theme=dracula"/>
+### 🎀Olá eu sou a Carolina💗
+### Instrutora de Desenvolvimento Frontend no Vai na Web 👋👩🏼‍🏫
+ ##
+<div >
+  <img  src="https://github.com/mariaccarolina/get.coffee/blob/main/78KI.gif?raw=true"  />
 </div>
+
+###
+
+###
           
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -27,11 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-</div>
-
-###
-<div >
-  <img src="https://profile-counter.glitch.me/mariaccarolina/count.svg?"  />
 </div>
 
 ###
