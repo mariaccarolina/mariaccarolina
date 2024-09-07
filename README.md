@@ -39,7 +39,7 @@ const SobreMim = {
 };
 
 const Skills = {
-  linguagem: ["JavaScript", PHP],
+  linguagem: ["JavaScript", "PHP"],
   bibliotecas: ["SASS", "Styled-components"],
   frameworks: ["React", "Vue"]
 };
