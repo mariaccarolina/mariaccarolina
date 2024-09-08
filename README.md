@@ -31,6 +31,7 @@
 ##
 ```vue
 <script setup>
+
 const SobreMim = {
   nome: "Carol",
   area: "Programação",
