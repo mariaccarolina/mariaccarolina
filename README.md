@@ -2,8 +2,8 @@
 ### 🎀Olá eu sou a Carolina💗
 ### Instrutora de Desenvolvimento Frontend no Vai na Web 👋👩🏼‍🏫
  ##
-<div align="center">
-  <img  src="https://github.com/mariaccarolina/get.coffee/blob/main/78KI.gif?raw=true"  />
+<div >
+  <img  src="https://i.imgur.com/JnbQNPv.gif"  />
 </div>
 
 ###
