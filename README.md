@@ -3,7 +3,7 @@
 ### Instrutora de Desenvolvimento Frontend no Vai na Web 👋👩🏼‍🏫
  ##
 <div >
-  <img  src="https://i.imgur.com/JnbQNPv.gif"  />
+  <img  src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif"  />
 </div>
 
 ###
